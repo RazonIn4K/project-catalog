@@ -8,11 +8,11 @@ A comprehensive listing of all public demos and projects.
 
 Workflow automation and process optimization projects.
 
-### Example Automation Project
-*Description of the automation project goes here.*
+### [Project Name]
+*[Brief one-line description of what this automation does]*
 
-- **Repository**: [Link to repo](https://github.com/RazonIn4K/automation-project)
-- **Demo Video**: [Watch on Loom](https://www.loom.com/share/your-video-id)
+- **Repository**: [GitHub Link](https://github.com/RazonIn4K/project-name)
+- **Demo Video**: [Watch on Loom](https://www.loom.com/share/video-id)
 
 ---
 
@@ -20,11 +20,11 @@ Workflow automation and process optimization projects.
 
 Conversational AI and bot implementations.
 
-### Example Chatbot Project
-*Description of the chatbot project goes here.*
+### [Project Name]
+*[Brief one-line description of what this chatbot does]*
 
-- **Repository**: [Link to repo](https://github.com/RazonIn4K/chatbot-project)
-- **Demo Video**: [Watch on Loom](https://www.loom.com/share/your-video-id)
+- **Repository**: [GitHub Link](https://github.com/RazonIn4K/project-name)
+- **Demo Video**: [Watch on Loom](https://www.loom.com/share/video-id)
 
 ---
 
@@ -32,11 +32,11 @@ Conversational AI and bot implementations.
 
 Data processing, transformation, and ETL solutions.
 
-### Example Data Pipeline Project
-*Description of the data pipeline project goes here.*
+### [Project Name]
+*[Brief one-line description of what this data pipeline does]*
 
-- **Repository**: [Link to repo](https://github.com/RazonIn4K/data-pipeline-project)
-- **Demo Video**: [Watch on Loom](https://www.loom.com/share/your-video-id)
+- **Repository**: [GitHub Link](https://github.com/RazonIn4K/project-name)
+- **Demo Video**: [Watch on Loom](https://www.loom.com/share/video-id)
 
 ---
 
