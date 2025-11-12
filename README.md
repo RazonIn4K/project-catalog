@@ -1,6 +1,6 @@
 # Project Catalog
 
-A curated collection of my public demonstrations and projects, organized by category.
+A curated catalog of my public automation, chatbot, and data pipeline demos, organized by category.
 
 ## Overview
 
