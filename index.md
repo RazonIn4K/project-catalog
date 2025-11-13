@@ -8,11 +8,14 @@ A comprehensive listing of all public demos and projects.
 
 Workflow automation and process optimization projects.
 
-### [Project Name]
-*[Brief one-line description of what this automation does]*
+### GHL Lead Capture & Slack Alert (n8n)
 
-- **Repository**: [GitHub Link](https://github.com/RazonIn4K/project-name)
-- **Demo Video**: [Watch on Loom](https://www.loom.com/share/video-id)
+Demonstrates a simple automation where a lead from a GoHighLevel form flows into Google Sheets, triggers a Slack notification, and logs the data.
+
+**Tech stack:** n8n, GoHighLevel Webhooks, Google Sheets, Slack API
+
+- **Repository**: [automation-templates](https://github.com/RazonIn4K/automation-templates)
+- **Demo Video**: TODO (add URL)
 
 ---
 
@@ -20,11 +23,14 @@ Workflow automation and process optimization projects.
 
 Conversational AI and bot implementations.
 
-### [Project Name]
-*[Brief one-line description of what this chatbot does]*
+### FAQ Chatbot Template (coming soon)
 
-- **Repository**: [GitHub Link](https://github.com/RazonIn4K/project-name)
-- **Demo Video**: [Watch on Loom](https://www.loom.com/share/video-id)
+A planned demo of a multilingual FAQ bot that uses a vector store to answer customer questions from uploaded docs.
+
+**Tech stack:** OpenAI/Claude API, vector DB (Pinecone/Chroma), simple web UI
+
+- **Repository**: TODO (chatbot-templates repo)
+- **Demo Video**: TODO (add URL)
 
 ---
 
@@ -32,11 +38,14 @@ Conversational AI and bot implementations.
 
 Data processing, transformation, and ETL solutions.
 
-### [Project Name]
-*[Brief one-line description of what this data pipeline does]*
+### ShopMatch Product Scraper & Enricher
 
-- **Repository**: [GitHub Link](https://github.com/RazonIn4K/project-name)
-- **Demo Video**: [Watch on Loom](https://www.loom.com/share/video-id)
+A CLI pipeline that reads sample product data, parses HTML to extract product info, and shows where an LLM could enrich descriptions.
+
+**Tech stack:** Python, BeautifulSoup, CSV I/O, (optional) LLM API
+
+- **Repository**: [shopmatch-pro](https://github.com/RazonIn4K/shopmatch-pro)
+- **Demo Video**: TODO (add URL)
 
 ---
 
