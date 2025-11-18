@@ -20,8 +20,8 @@ A Typeform intake sends structured responses to Zapier, which enriches the paylo
 
 ## Tech Stack
 - Typeform
-- Zapier
-- Notion
+- Zapier / n8n / Make.com
+- Notion / GoHighLevel
 - OpenAI
 
 ## Key Outcomes
@@ -37,9 +37,9 @@ A Typeform intake sends structured responses to Zapier, which enriches the paylo
 - “Auditors can replay every decision because the workflow stamps every change into the Notion timeline.”
 
 ## Suggested Upwork Project Catalog Packages
-- **Basic (3-4 days):** Connect Typeform to Zapier, configure scoring rubric, and push clean entries into your existing Notion database with alerts.
-- **Standard (1 week):** Everything in Basic plus OpenAI narrative scoring, Slack triage channels, and risk dashboards with audit history.
-- **Premium (2 weeks):** Includes Standard plus DMV/API enrichments, multi-brand branching logic, and managed handoff to your compliance team.
+- **Basic (3-4 days):** Connect Typeform to Zapier/n8n/Make, configure scoring rubric, and push clean entries into your existing Notion or GoHighLevel database with alerts. Includes Loom handover and short internal training for your team.
+- **Standard (1 week):** Everything in Basic plus OpenAI narrative scoring, Slack triage channels, and risk dashboards with audit history. Works with GoHighLevel, n8n, Zapier, or Make.
+- **Premium (2 weeks):** Includes Standard plus DMV/API enrichments, multi-brand branching logic, and managed handoff to your compliance team. Includes comprehensive team training and runbook documentation.
 
 ## Links
 - **Workflow Template:** [Driver Scoring Blueprint](https://github.com/RazonIn4K/automation-templates/tree/main/driver-scoring)

@@ -14,7 +14,7 @@ Workflow automation and process optimization projects.
 
 > Typeform intake auto-scores every driver submission, explains the risk level via OpenAI, and syncs actions to Notion plus Slack in under two minutes.
 
-**Tech stack:** Typeform, Zapier, Notion, OpenAI
+**Tech stack:** Typeform, Zapier/n8n/Make.com, Notion/GoHighLevel, OpenAI
 
 **Who this is for:** Commercial fleets, delivery networks, and marketplaces that need compliant onboarding at scale.
 
@@ -66,7 +66,7 @@ Workflow automation and process optimization projects.
 
 **Tech stack:** n8n, GoHighLevel Webhooks, Google Sheets, Slack API
 
-**Who this is for:** Marketing agencies and sales teams using GoHighLevel who want instant notifications when new leads show up.
+**Who this is for:** Marketing agencies and sales teams using GoHighLevel who want instant notifications when new leads show up. Perfect for teams needing to automate missed-call follow-ups and pipeline updates without manual work.
 
 **How to try it:**
 1. Check out the [automation-templates repository](https://github.com/RazonIn4K/automation-templates) and follow the README for setup instructions
