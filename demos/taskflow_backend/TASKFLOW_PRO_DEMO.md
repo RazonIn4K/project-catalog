@@ -94,7 +94,8 @@ We built a **FastAPI** backend that serves as the brain. It stores tasks in a da
 ## 9. Links & Artifacts
 
 - **Backend Code:** [main.py](./main.py)
-- **Swagger Docs:** _(Screenshot in assets)_
+- **Dashboard Preview:**
+  ![TaskFlow Pro Dashboard](./assets/dashboard.png)\_
 
 ---
 

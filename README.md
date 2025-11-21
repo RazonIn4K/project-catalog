@@ -5,6 +5,7 @@ Give prospects a 30-second tour of my automation, chatbot, scraping, and securit
 ## Portfolio Table
 | Project | Category | Summary | Updated | Repo |
 | --- | --- | --- | --- | --- |
+| [n8n Sheet → Notion → GPT → Slack](catalog/n8n_sheet_automation.md) | Automation | AI-powered workflow monitors Sheets, enriches with GPT-4, creates Notion records, sends Slack alerts. | 2024-03-15 | [automation-templates](https://github.com/RazonIn4K/automation-templates) |
 | [Driver Scoring Automation](catalog/driver_scoring.md) | Automation | Typeform intake scores compliance risk and syncs actions to Notion in <2 min. | 2024-06-20 | [automation-templates](https://github.com/RazonIn4K/automation-templates) |
 | [N8N Messaging Agent Platform](catalog/n8n_messaging_agent.md) | Automation | AI-personalized SMS/email cadences that keep real-estate leads warm 24/7. | 2024-06-15 | [automation-templates](https://github.com/RazonIn4K/automation-templates) |
 | [Scraping + Lead Gen Pipelines](catalog/scraping_lead_gen.md) | Scraping | Playwright scrapers + enrichment create CRM-ready lead lists automatically. | 2024-05-30 | [data-pipeline-starters](https://github.com/RazonIn4K/data-pipeline-starters) |
