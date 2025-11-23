@@ -13,6 +13,7 @@ Give prospects a 30-second tour of my automation, chatbot, scraping, and securit
 | [FAQ Chatbot Template](index.md#faq-chatbot-template-coming-soon) | Chatbot | Multilingual FAQ bot powered by vector search for instant self-service answers. | 2024-05-10 | [chatbot-templates](https://github.com/RazonIn4K/chatbot-templates) |
 | [ShopMatch Product Scraper & Enricher](index.md#shopmatch-product-scraper--enricher) | Scraping | CLI pipeline parses storefronts, enriches products, and drafts copy via LLM. | 2024-05-05 | [shopmatch-pro](https://github.com/RazonIn4K/shopmatch-pro) |
 | [AI Integration & Security Audit Bundle](catalog/ai_security_bundle.md) | Security | Launch an AI workflow plus a guardrail audit so ops scale safely. | 2024-06-25 | [automation-templates](https://github.com/RazonIn4K/automation-templates) |
+| [Long-Form Funnel Redesign](catalog/funnel_redesign_case_study.md) | Funnel Optimization / CRO | Complete sales funnel overhaul: +340% conversion, -62% CAC for B2B coaching program. | 2024-11-23 | — |
 
 ## Catalog Anatomy
 - `catalog/` — High-signal one-pagers with problem, solution, stack, outcomes, and thumbnails.
