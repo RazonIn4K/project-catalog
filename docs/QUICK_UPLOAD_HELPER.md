@@ -6,8 +6,8 @@
 
 ## 📋 Asset Verification
 
-✅ **5 Portfolio Entries** - All present  
-✅ **5 Audio Files** - All generated  
+✅ **7 Portfolio Entries** - All present (2 New Added!)
+✅ **5 Audio Files** - Core demos ready  
 ✅ **5 Video Scripts** - All ready  
 ✅ **All Links** - GitHub repos verified
 
@@ -18,6 +18,7 @@
 ### Entry 1: n8n Automation
 
 **Title:**
+
 ```
 n8n Automation: AI-Powered Data Processing That Saves 3+ Hours/Week
 ```
@@ -25,11 +26,13 @@ n8n Automation: AI-Powered Data Processing That Saves 3+ Hours/Week
 **Project Type:** Development & IT → AI & Machine Learning
 
 **Skills:**
+
 ```
 Workflow Automation, n8n, OpenAI API, API Development, Google Sheets, Notion, Slack, JavaScript, Error Handling, Documentation
 ```
 
 **Description:**
+
 ```
 Manual data entry and processing was costing teams 3+ hours per week. Data had to be copied between Google Sheets, Notion, and Slack manually, with no AI-powered insights or automated categorization.
 
@@ -58,16 +61,19 @@ This pattern can be adapted for lead management, content pipelines, support tick
 ```
 
 **Tags:**
+
 ```
 automation, ai-integration, workflow-automation, n8n, gpt4, notion, slack, api-integration, data-processing, portfolio-demo
 ```
 
 **Links:**
+
 - GitHub: `https://github.com/RazonIn4K/automation-templates/tree/main/n8n/sheet-notion-gpt-slack`
 - Documentation: `https://github.com/RazonIn4K/automation-templates/blob/main/n8n/sheet-notion-gpt-slack/README.md`
 - Case Study: `https://github.com/RazonIn4K/project-catalog/blob/main/catalog/n8n_sheet_automation.md`
 
 **Details:**
+
 - Duration: Less than 1 week
 - Role: Solo project
 - Client Type: Personal project
@@ -77,6 +83,7 @@ automation, ai-integration, workflow-automation, n8n, gpt4, notion, slack, api-i
 ### Entry 2: CRM Pipeline
 
 **Title:**
+
 ```
 Automated CRM Pipeline: Instant Lead Sync & Enrichment (ActiveCampaign)
 ```
@@ -84,11 +91,13 @@ Automated CRM Pipeline: Instant Lead Sync & Enrichment (ActiveCampaign)
 **Project Type:** Sales & Marketing → Marketing Automation
 
 **Skills:**
+
 ```
 Marketing Automation, ActiveCampaign, Make.com, CRM, Lead Generation, Google Sheets, API Integration, Dashboard, Data Hygiene, Zapier
 ```
 
 **Description:**
+
 ```
 Stop losing leads to slow manual data entry. I built a fully automated CRM pipeline that captures leads from Facebook Ads and Web Forms, enriches them with data, and syncs them to ActiveCampaign in real-time.
 
@@ -119,15 +128,18 @@ I can build this same pipeline for your business in under 48 hours.
 ```
 
 **Tags:**
+
 ```
 activecampaign, make-com, crm-automation, lead-generation, marketing-automation, integromat, google-sheets, api-integration, sales-funnel, dashboard
 ```
 
 **Links:**
+
 - GitHub: `https://github.com/RazonIn4K/automation-templates/tree/main/crm`
 - Case Study: `https://github.com/RazonIn4K/project-catalog/blob/main/catalog/crm_pipeline_setup.md`
 
 **Details:**
+
 - Duration: Less than 1 week
 - Role: Solo project
 - Client Type: Small Business (Agency/B2B)
@@ -137,6 +149,7 @@ activecampaign, make-com, crm-automation, lead-generation, marketing-automation,
 ### Entry 3: SaaS Backend
 
 **Title:**
+
 ```
 Scalable SaaS Backend with AI Features (FastAPI + OpenAI)
 ```
@@ -144,11 +157,13 @@ Scalable SaaS Backend with AI Features (FastAPI + OpenAI)
 **Project Type:** Development & IT → Back-End Development
 
 **Skills:**
+
 ```
 Python, FastAPI, API Development, PostgreSQL, OpenAI API, Docker, SaaS Development, REST API, Database Design, Authentication
 ```
 
 **Description:**
+
 ```
 Launching a SaaS MVP? You need a backend that is secure, scalable, and AI-ready from Day 1. I built "TaskFlow Pro," a production-grade backend starter kit designed for modern AI applications.
 
@@ -179,15 +194,18 @@ Perfect for founders who want to launch their AI SaaS in weeks, not months.
 ```
 
 **Tags:**
+
 ```
 python, fastapi, saas, backend-development, openai-api, postgresql, docker, rest-api, mvp, ai-integration
 ```
 
 **Links:**
+
 - GitHub: `https://github.com/RazonIn4K/project-catalog/tree/main/demos/taskflow_backend`
 - Case Study: `https://github.com/RazonIn4K/project-catalog/blob/main/catalog/saas_mvp_backend.md`
 
 **Details:**
+
 - Duration: 1-3 months
 - Role: Back-End Developer
 - Client Type: Startup
@@ -197,6 +215,7 @@ python, fastapi, saas, backend-development, openai-api, postgresql, docker, rest
 ### Entry 4: RAG Chatbot
 
 **Title:**
+
 ```
 Enterprise RAG Chatbot: Secure AI for Internal Docs (LangChain)
 ```
@@ -204,11 +223,13 @@ Enterprise RAG Chatbot: Secure AI for Internal Docs (LangChain)
 **Project Type:** Development & IT → AI & Machine Learning
 
 **Skills:**
+
 ```
 LangChain, Natural Language Processing, OpenAI API, Python, Vector Databases, RAG, Chatbot Development, React, Next.js, AI Integration
 ```
 
 **Description:**
+
 ```
 Companies want to use AI on their own data but can't risk privacy leaks with public tools like ChatGPT. I built a secure Retrieval-Augmented Generation (RAG) system that allows employees to chat with internal PDF documents without data leaving the private cloud.
 
@@ -239,15 +260,18 @@ I can deploy this secure knowledge assistant for your internal teams or customer
 ```
 
 **Tags:**
+
 ```
 rag, langchain, chatbot, openai, vector-database, ai-integration, nlp, enterprise-ai, python, react
 ```
 
 **Links:**
+
 - GitHub: `https://github.com/RazonIn4K/csbrainai/tree/main/examples/simple_rag`
 - Case Study: `https://github.com/RazonIn4K/csbrainai/blob/main/examples/simple_rag/RAG_DEMO.md`
 
 **Details:**
+
 - Duration: 1-3 months
 - Role: AI Engineer
 - Client Type: Enterprise
@@ -257,6 +281,7 @@ rag, langchain, chatbot, openai, vector-database, ai-integration, nlp, enterpris
 ### Entry 5: Security Audit
 
 **Title:**
+
 ```
 AI Security: Prompt Injection Defense System (Red Teaming)
 ```
@@ -264,11 +289,13 @@ AI Security: Prompt Injection Defense System (Red Teaming)
 **Project Type:** Development & IT → Information Security
 
 **Skills:**
+
 ```
 AI Security, Prompt Engineering, Python, Penetration Testing, Large Language Models, Security Auditing, LangChain, Risk Assessment, Cybersecurity, API Security
 ```
 
 **Description:**
+
 ```
 As AI applications move to production, security is the #1 risk. I specialize in auditing LLM applications for vulnerabilities (Prompt Injection, Jailbreaks) and implementing robust defense layers.
 
@@ -299,18 +326,153 @@ Don't let a prompt injection attack ruin your launch. I can secure your AI app t
 ```
 
 **Tags:**
+
 ```
 ai-security, prompt-injection, red-teaming, llm-security, cybersecurity, python, langchain, audit, risk-management, fintech
 ```
 
 **Links:**
+
 - GitHub: `https://github.com/RazonIn4K/prompt-defenders/tree/main/demos/prompt_injection`
 - Case Study: `https://github.com/RazonIn4K/prompt-defenders/blob/main/demos/prompt_injection/PROMPT_DEFENSE_DEMO.md`
 
 **Details:**
+
 - Duration: Less than 1 week
 - Role: Security Engineer
 - Client Type: FinTech / Enterprise
+
+---
+
+### Entry 6: ManyChat IT Training Funnel
+
+**Title:**
+
+```
+Automated IT Training Funnel: Instagram DM to Enrollment (ManyChat)
+```
+
+**Project Type:** Sales & Marketing → Marketing Automation
+
+**Skills:**
+
+```
+ManyChat, Instagram Automation, Zapier, Google Sheets, Chatbot Design, Lead Generation, Funnel Optimization, Copywriting, Stripe Integration, WhatsApp Marketing
+```
+
+**Description:**
+
+```
+Scaling an education business requires more than just ads—it needs a system that nurtures leads 24/7. I architected a complete Instagram DM automation funnel for an IT Training program that converts comments into enrolled students.
+
+PROBLEM:
+The client was overwhelmed by DMs asking "price?" and "details?", spending 4+ hours/day manually replying. Response times were slow, and leads were slipping through the cracks.
+
+SOLUTION:
+I built a comprehensive ManyChat automation system:
+1.  **Comment Growth Tool**: Automatically DMs users who comment "INFO" on posts.
+2.  **Segmentation**: Qualifies leads (Beginner vs. Career Changer) to send relevant content.
+3.  **7-Day Nurture**: Delivers value (guides, success stories) to build trust before selling.
+4.  **Urgency Logic**: Automated countdown sequence for enrollment deadlines.
+
+RESULTS:
+•   **Zero Manual DMs**: Automates 100% of initial inquiries.
+•   **Higher Engagement**: 60%+ open rates on nurture messages.
+•   **Sales Ready**: Only qualified, educated leads book calls or buy.
+
+TECH STACK: ManyChat Pro, Instagram API, Zapier, Google Sheets, Stripe
+
+DELIVERABLES:
+•   Complete ManyChat Flow Architecture (15+ Flows)
+•   Zapier Integration for Payment Tracking
+•   Google Sheets Dashboard for Lead Scoring
+•   Copywriting for 7-Day Nurture Sequence
+
+I can implement this same "Comment-to-Cash" system for your course or coaching program.
+```
+
+**Tags:**
+
+```
+manychat, instagram-automation, chatbot-marketing, sales-funnel, zapier, lead-generation, marketing-automation, course-launch, whatsapp-marketing, stripe
+```
+
+**Links:**
+
+- GitHub: `https://github.com/RazonIn4K/automation-templates/blob/main/manychat/MANYCHAT_IT_TRAINING_ARCHITECTURE.md`
+- Architecture Doc: `https://github.com/RazonIn4K/automation-templates/blob/main/manychat/MANYCHAT_IT_TRAINING_ARCHITECTURE.md`
+
+**Details:**
+
+- Duration: Less than 1 week
+- Role: Marketing Automation Specialist
+- Client Type: Education / Coaching
+
+---
+
+### Entry 7: AI Voice Agent Platform
+
+**Title:**
+
+```
+AI Voice Agent Platform: 24/7 Lead Qualification & CRM Sync
+```
+
+**Project Type:** Development & IT → AI & Machine Learning
+
+**Skills:**
+
+```
+ElevenLabs, OpenAI GPT-4, Twilio, n8n, CRM Integration, Python, Voice AI, Lead Qualification, Sales Automation, Real-time Analytics
+```
+
+**Description:**
+
+```
+Sales teams lose leads to slow response times. I built an AI Voice Agent Platform that answers calls instantly, qualifies leads using natural conversation, and syncs data to your CRM in real-time.
+
+PROBLEM:
+Manual phone handling creates bottlenecks. Hiring more staff doesn't scale. Leads were going cold because agents couldn't pick up fast enough.
+
+SOLUTION:
+I developed a Voice AI platform using ElevenLabs (Neural Voices) and GPT-4:
+1.  **Natural Conversation**: Multi-turn dialogue with sub-second latency.
+2.  **Real-Time Sync**: Extracts budget, timeline, and needs during the call and pushes to CRM.
+3.  **Warm Transfers**: Detects high-intent leads and transfers them to humans with full context.
+4.  **Analytics**: Dashboard tracking sentiment, resolution rates, and conversion.
+
+RESULTS:
+•   **24/7 Availability**: Never miss a lead, day or night.
+•   **8-Second Sync**: Data is in the CRM before the call ends.
+•   **40% Cost Reduction**: Automates routine qualification calls completely.
+
+TECH STACK: ElevenLabs, OpenAI GPT-4, Twilio, n8n, HubSpot/Salesforce, Python
+
+DELIVERABLES:
+•   Voice Agent Workflow (n8n/Make)
+•   CRM Integration Setup
+•   Custom Voice Cloning (ElevenLabs)
+•   Analytics Dashboard
+
+Ready to clone your best sales rep? I can deploy this voice agent for your business.
+```
+
+**Tags:**
+
+```
+voice-ai, elevenlabs, openai, twilio, n8n, crm-integration, sales-automation, ai-agent, python, lead-qualification
+```
+
+**Links:**
+
+- GitHub: `https://github.com/RazonIn4K/automation-templates/tree/main/voice-agent-crm`
+- Case Study: `https://github.com/RazonIn4K/project-catalog/blob/main/catalog/voice_agent_platform.md`
+
+**Details:**
+
+- Duration: 1-3 months
+- Role: AI Engineer
+- Client Type: B2B / SaaS
 
 ---
 
@@ -335,23 +497,24 @@ ai-security, prompt-injection, red-teaming, llm-security, cybersecurity, python,
 
 ## 🎯 Recommended Upload Order
 
-1. **n8n Automation** (most polished, high demand)
-2. **CRM Pipeline** (high conversion potential)
-3. **SaaS Backend** (technical depth)
-4. **RAG Chatbot** (AI expertise)
-5. **Security Audit** (niche specialization)
+1.  **n8n Automation** (most polished, high demand)
+2.  **CRM Pipeline** (high conversion potential)
+3.  **SaaS Backend** (technical depth)
+4.  **RAG Chatbot** (AI expertise)
+5.  **Security Audit** (niche specialization)
+6.  **ManyChat Funnel** (marketing automation)
+7.  **Voice Agent** (cutting-edge AI)
 
 ---
 
 ## 💡 Pro Tips
 
-1. **Save as drafts first** - Review all 5 before publishing
-2. **Skip images initially** - Can add later
-3. **Test links** - Verify GitHub repos are public
-4. **Proofread** - Quick spell check
-5. **Batch upload** - Do all 5 in one session
+1.  **Save as drafts first** - Review all 7 before publishing
+2.  **Skip images initially** - Can add later
+3.  **Test links** - Verify GitHub repos are public
+4.  **Proofread** - Quick spell check
+5.  **Batch upload** - Do all 7 in one session
 
 ---
 
 **You're ready! Copy-paste and upload! 🚀**
-
