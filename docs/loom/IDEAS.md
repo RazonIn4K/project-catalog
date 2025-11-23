@@ -13,3 +13,6 @@
 
 - **"Launch AI Workflows with Guardrails in One Sprint."**
   - AI Integration & Security Audit Bundle intro
+
+- **"Your AI Receptionist That Never Sleeps—Voice Agents in Action."**
+  - Voice Agent Platform demo with ElevenLabs, call simulation, CRM handoff, and analytics dashboards
