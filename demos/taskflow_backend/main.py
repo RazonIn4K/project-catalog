@@ -184,6 +184,11 @@ def generate_subtasks(task_id: str):
     }
 
 
+@app.get("/heartbeat")
+def heartbeat():
+    return {"status": "alive"}
+
+
 if __name__ == "__main__":
     import uvicorn
 
