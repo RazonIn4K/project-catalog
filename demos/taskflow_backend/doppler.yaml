@@ -1,0 +1,7 @@
+setup:
+  project: taskflow-pro
+  config: dev
+
+# Enforce required secrets
+required_secrets:
+  - OPENAI_API_KEY

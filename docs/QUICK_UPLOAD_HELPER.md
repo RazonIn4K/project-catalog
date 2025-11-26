@@ -6,7 +6,7 @@
 
 ## 📋 Asset Verification
 
-✅ **7 Portfolio Entries** - All present (2 New Added!)
+✅ **8 Portfolio Entries** - All present (3 New Added!)
 ✅ **5 Audio Files** - Core demos ready  
 ✅ **5 Video Scripts** - All ready  
 ✅ **All Links** - GitHub repos verified
@@ -476,6 +476,74 @@ voice-ai, elevenlabs, openai, twilio, n8n, crm-integration, sales-automation, ai
 
 ---
 
+### Entry 8: Agency OS (HighEncode Studio)
+
+**Title:**
+
+```
+Agency OS: Autonomous AI Coding & Design Studio (Jules + Stitch)
+```
+
+**Project Type:** Development & IT → AI & Machine Learning
+
+**Skills:**
+
+```
+Google Jules, Google Stitch, AI Agents, Python, React, FastAPI, n8n, System Architecture, Automation, Full Stack Development
+```
+
+**Description:**
+
+```
+Scaling an agency is hard when you're bottlenecked by manual coding and design. I built "Agency OS," a unified operating system that orchestrates Google's latest AI agents to automate the entire delivery pipeline.
+
+PROBLEM:
+Client projects were stalling because switching between "Designer Mode" and "Developer Mode" caused context switching fatigue. I needed a way to delegate specific roles to AI agents while I acted as the Architect.
+
+SOLUTION:
+I architected a multi-agent system using Google's experimental tools:
+1.  **Google Stitch (The Designer)**: Generates UI components and dashboards based on natural language specs.
+2.  **Google Jules (The Engineer)**: Autonomous coding agent that writes backend logic and connects APIs.
+3.  **Mock Backend (The Sandbox)**: A safe simulation environment for agents to test code before production.
+4.  **Beautiful.ai (The Storyteller)**: AI-generated decks for client handoff and sales.
+
+RESULTS:
+•   **90% Faster Setup**: Spun up a full client portal in <1 hour using AI delegation.
+•   **Autonomous Delivery**: Agents handle the "grunt work" (CSS, API wiring) while I focus on strategy.
+•   **Unified Workflow**: Seamless handoff from Design (Stitch) to Code (Jules) to Deploy.
+
+TECH STACK: Google Jules, Google Stitch, Python (FastAPI), React, n8n, Docker
+
+DELIVERABLES:
+•   Agency OS Blueprint (Architecture Doc)
+•   Integrated Agent Workflow
+•   Client Portal Dashboard
+•   Simulation Engine
+
+I can deploy this "AI Studio" for your agency so you can stop coding and start architecting.
+```
+
+**Tags:**
+
+```
+ai-agents, google-jules, google-stitch, automation, agency-os, python, react, full-stack, system-architecture, ai-studio
+```
+
+**Links:**
+
+```
+- Blueprint: https://github.com/RazonIn4K/ops-hub/blob/main/docs/AGENCY_OS_BLUEPRINT.md
+- Portfolio: https://davidortiz.com/projects/agency-os
+```
+
+**Details:**
+
+- Duration: 1-3 months
+- Role: AI Architect
+- Client Type: Agency / B2B
+
+---
+
 ## ✅ Upload Checklist (Per Entry)
 
 - [ ] Title copied
@@ -504,6 +572,7 @@ voice-ai, elevenlabs, openai, twilio, n8n, crm-integration, sales-automation, ai
 5.  **Security Audit** (niche specialization)
 6.  **ManyChat Funnel** (marketing automation)
 7.  **Voice Agent** (cutting-edge AI)
+8.  **Agency OS** (AI Architecture)
 
 ---
 
